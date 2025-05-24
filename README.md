@@ -86,5 +86,10 @@
 ---
 
 ### 🧑‍💻 Open to New Challenges and Opportunities
+<div align="center">
+    <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Profile Image" />
+  </div>
+
+
 
 

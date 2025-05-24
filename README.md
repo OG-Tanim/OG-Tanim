@@ -87,7 +87,7 @@
 
  
 <div align="center">
-    <img src="[https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg](https://github.com/OG-Tanim/OG-Tanim/blob/395bc031529a43a140479d552289193838426efc/bc44aec1-8dec-4eac-b8d3-50c3531a58fc.png)" alt="Generated Image" />
+    <img src="https://github.com/OG-Tanim/OG-Tanim/blob/c33c82c22414f899744737c8a8cfe08b2ce591d6/bc44aec1-8dec-4eac-b8d3-50c3531a58fc%20(1).png" alt="Generated Image" />
   </div>
 
 

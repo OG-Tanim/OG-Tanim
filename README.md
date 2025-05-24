@@ -1,53 +1,90 @@
-<h2 align="left">Hi 👋! My name is Tanim Ahmed Saad </h2>
-<h3 align="left"> Software Developer | AI Enthusiast </h3>
+# Hi 👋! My name is Tanim Ahmed Saad
 
-###
+## Software Developer | AI Enthusiast 
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OG-Tanim&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
+# Skills
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
+    <img src="https://img.shields.io/badge/-C-blue?style=for-the-badge&logo=c" alt="C" style="border-radius: 10%;" />
+  </a>
+  <a href="https://en.wikipedia.org/wiki/C%2B%2B">
+    <img src="https://img.shields.io/badge/-C%2B%2B-blue?style=for-the-badge&logo=c%2B%2B" alt="C++" style="border-radius: 10%;" />
+  </a>
+  <a href="https://www.typescriptlang.org/">
+    <img src="https://img.shields.io/badge/-TypeScript-blue?style=for-the-badge&logo=typescript" alt="TypeScript" style="border-radius: 10%;" />
+  </a>
+  <a href="https://expressjs.com/">
+    <img src="https://img.shields.io/badge/-Express.js-lightgrey?style=for-the-badge&logo=express" alt="Express.js" style="border-radius: 10%;" />
+  </a>
+  <a href="https://getbootstrap.com/">
+    <img src="https://img.shields.io/badge/-Bootstrap-purple?style=for-the-badge&logo=bootstrap" alt="Bootstrap" style="border-radius: 10%;" />
+  </a>
+  <a href="https://tailwindcss.com/">
+    <img src="https://img.shields.io/badge/-Tailwind_CSS-lightblue?style=for-the-badge&logo=tailwind-css" alt="Tailwind CSS" style="border-radius: 10%;" />
+  </a>
+  <a href="https://daisyui.com/">
+    <img src="https://img.shields.io/badge/-DaisyUI-green?style=for-the-badge&logo=daisyui" alt="DaisyUI" style="border-radius: 10%;" />
+  </a>
+  <a href="https://nextjs.org/">
+    <img src="https://img.shields.io/badge/-Next.js-black?style=for-the-badge&logo=next.js" alt="Next.js" style="border-radius: 10%;" />
+  </a>
+  <a href="https://www.mongodb.com/">
+    <img src="https://img.shields.io/badge/-MongoDB-green?style=for-the-badge&logo=mongodb" alt="MongoDB" style="border-radius: 10%;" />
+  </a>
+  <a href="https://mongoosejs.com/">
+    <img src="https://img.shields.io/badge/-Mongoose-orange?style=for-the-badge&logo=mongoose" alt="Mongoose" style="border-radius: 10%;" />
+  </a>
+  <a href="https://www.postgresql.org/">
+    <img src="https://img.shields.io/badge/-PostgreSQL-blue?style=for-the-badge&logo=postgresql" alt="PostgreSQL" style="border-radius: 10%;" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript" alt="JavaScript" style="border-radius: 10%;" />
+  </a>
+  <a href="https://nodejs.org/">
+    <img src="https://img.shields.io/badge/-Node.js-green?style=for-the-badge&logo=node.js" alt="Node.js" style="border-radius: 10%;" />
+  </a>
+  <a href="https://jwt.io/">
+    <img src="https://img.shields.io/badge/-JWT-yellow?style=for-the-badge&logo=json-web-tokens" alt="JWT" style="border-radius: 10%;" />
+  </a>
+  <a href="https://ui.aceternity.com/">
+    <img src="https://img.shields.io/badge/-Aceternity_UI-darkblue?style=for-the-badge&logo=aceternity" alt="Aceternity UI" style="border-radius: 10%;" />
+  </a>
+  <a href="https://reactjs.org/">
+    <img src="https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react" alt="React.js" style="border-radius: 10%;" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS">
+    <img src="https://img.shields.io/badge/-CORS-lightgrey?style=for-the-badge&logo=cors" alt="CORS" style="border-radius: 10%;" />
+  </a>
+  <a href="https://firebase.google.com/">
+    <img src="https://img.shields.io/badge/-Firebase-orange?style=for-the-badge&logo=firebase" alt="Firebase" style="border-radius: 10%;" />
+  </a>
+  <a href="https://axios-http.com/">
+    <img src="https://img.shields.io/badge/-Axios-darkblue?style=for-the-badge&logo=axios" alt="Axios" style="border-radius: 10%;" />
+  </a>
+  <a href="https://stripe.com/">
+    <img src="https://img.shields.io/badge/-Stripe-purple?style=for-the-badge&logo=stripe" alt="Stripe" style="border-radius: 10%;" />
+  </a>
 </div>
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
-
-###
 
 <br clear="both">
 
-<p align="center">
+<div align="center">
     <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Profile Image" />
-  </p>
+  </div>
 
 ---
 
-###
+### 📮 Reach Out to Me: 
+- **Email**: [tanimahmedshad@gmail.com](mailto:tanimahmedshad@gmail.com)
+- **Resume:** [Latest Resume](https://drive.google.com/file/d/1WpRp06LUI9pJp1easFJ3AY0shyeRpqmh/view](https://drive.google.com/file/d/1ctlgsEO8ujZ_wtcXsZFgEseZi8vbFuT7/view?usp=drive_link)
+
+---
+
+### 🧑‍💻 Open to New Challenges and Opportunities
+
+

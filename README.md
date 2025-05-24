@@ -81,13 +81,13 @@
 
 ### 📮 Reach Out to Me: 
 - **Email**: [tanimahmedshad@gmail.com](mailto:tanimahmedshad@gmail.com)
-- **Resume:** [Latest Resume](https://drive.google.com/file/d/1WpRp06LUI9pJp1easFJ3AY0shyeRpqmh/view](https://drive.google.com/file/d/1ctlgsEO8ujZ_wtcXsZFgEseZi8vbFuT7/view?usp=drive_link)
+- **Resume:** [View My Resume](https://drive.google.com/file/d/1ctlgsEO8ujZ_wtcXsZFgEseZi8vbFuT7/view?usp=drive_link)
 
 ---
 
-### 🧑‍💻 Open to New Challenges and Opportunities
+ 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Profile Image" />
+    <img src="[https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg](https://github.com/OG-Tanim/OG-Tanim/blob/395bc031529a43a140479d552289193838426efc/bc44aec1-8dec-4eac-b8d3-50c3531a58fc.png)" alt="Generated Image" />
   </div>
 
 

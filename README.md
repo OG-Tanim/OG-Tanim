@@ -71,8 +71,7 @@
 ---
 
 ### 📮 Reach Out to Me: 
-- **Email**: [tanimahmedshad@gmail.com](mailto:tanimahmedshad@gmail.com)
-- **Resume:** [View My Resume](https://drive.google.com/file/d/1ctlgsEO8ujZ_wtcXsZFgEseZi8vbFuT7/view?usp=drive_link)
+- **Email**: [tanimahmedshad@gmail.com](mailto:tanimahmedshad@gmail.com
 
 ---
 

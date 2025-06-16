@@ -1,4 +1,4 @@
-# Hi 👋! My name is Tanim Ahmed Saad
+# Hi 👋! My name is Tanim Ahmed
 
 
 ## Software Developer | AI Enthusiast 

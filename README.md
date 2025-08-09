@@ -75,11 +75,5 @@
 
 ---
 
-<h3>Open to Work Opportunities</h3>
-<div align="center">
-    <img style= "width: 50%;" src="https://github.com/OG-Tanim/OG-Tanim/blob/c33c82c22414f899744737c8a8cfe08b2ce591d6/bc44aec1-8dec-4eac-b8d3-50c3531a58fc%20(1).png" alt="Generated Image" />
-  </div>
-
-
 
 

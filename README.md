@@ -71,7 +71,7 @@
 ---
 
 ### 📮 Reach Out to Me: 
-- **Email**: [tanimahmedshad@gmail.com](mailto:tanimahmedshad@gmail.com
+- **Email**: [tanimahmedshad@gmail.com](mailto:tanimahmedshad@gmail.com)
 
 ---
 

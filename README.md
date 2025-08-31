@@ -1,15 +1,11 @@
-
-
-
-## Software Developer 
-
-
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OG-Tanim&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-<!-- <h3> Skills </h3>
+<!-- 
+## Software Developer 
+
+<h3> Skills </h3>
 
 <div align="left">
 
@@ -71,11 +67,13 @@
   </div>
 
 ---
- -->
+
 ### 📮 Reach Out to Me: 
 - **Email**: [tanimahmedshad@gmail.com](mailto:tanimahmedshad@gmail.com)
 
 ---
+ -->
+
 
 
 

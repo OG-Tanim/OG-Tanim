@@ -1,5 +1,3 @@
-# Projects
-
 ## Currently Building
 - [MVP of Chess.com](https://github.com/OG-Tanim/Chess.com)
 

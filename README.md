@@ -1,79 +1,24 @@
-<!-- <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OG-Tanim&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div> -->
+# Projects
 
-<!-- 
-## Software Developer 
+## Currently Building
+- [Chess.com](https://github.com/OG-Tanim/Chess.com)
 
-<h3> Skills </h3>
-
-<div align="left">
-
-  <h5>🌐 Languages</h5>
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  <img src="https://img.shields.io/badge/-TypeScript-blue?style=for-the-badge&logo=typescript" />
-  <img src="https://img.shields.io/badge/-Python-white?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/-Bash-black?style=for-the-badge&logo=gnubash" />
-
-  <h5>🧠 Backend</h5>
-  <img src="https://img.shields.io/badge/-Node.js-green?style=for-the-badge&logo=node.js" />
-  <img src="https://img.shields.io/badge/-Express.js-lightgrey?style=for-the-badge&logo=express" />
-  <img src="https://img.shields.io/badge/-Flask-black?style=for-the-badge&logo=flask" />
-  <img src="https://img.shields.io/badge/-JWT-white?style=for-the-badge&logo=json-web-tokens" />
-
-  <h5>🎨 Frontend</h5>
-  <img src="https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/badge/-Vue.js-green?style=for-the-badge&logo=vue.js" />
-  <img src="https://img.shields.io/badge/-Tailwind_CSS-lightblue?style=for-the-badge&logo=tailwind-css" />
-  <img src="https://img.shields.io/badge/-Material_UI-darkblue?style=for-the-badge&logo=mui" />
-  <img src="https://img.shields.io/badge/-Next.js-black?style=for-the-badge&logo=next.js" />
-
-  <h5>📦 Data Systems</h5>
-  <img src="https://img.shields.io/badge/-MongoDB-green?style=for-the-badge&logo=mongodb" />
-  <img src="https://img.shields.io/badge/-Mongoose-orange?style=for-the-badge&logo=mongoose" />
-  <img src="https://img.shields.io/badge/-PostgreSQL-blue?style=for-the-badge&logo=postgresql" />
-  <img src="https://img.shields.io/badge/-MySQL-blue?style=for-the-badge&logo=mysql" />
-  <img src="https://img.shields.io/badge/-Firebase-orange?style=for-the-badge&logo=firebase" />
-
-  <h5>🧪 Testing</h5>
-  <img src="https://img.shields.io/badge/-Testcontainer-darkblue?style=for-the-badge&logo=testcontainers" />
-  <img src="https://img.shields.io/badge/-Testify-orange?style=for-the-badge&logo=testify" />
-
-  <h5>🛠️ Tools</h5>
-  <img src="https://img.shields.io/badge/-Git-orange?style=for-the-badge&logo=git" />
-  <img src="https://img.shields.io/badge/-Docker-blue?style=for-the-badge&logo=docker" />
-  <img src="https://img.shields.io/badge/-Kubernetes-lightblue?style=for-the-badge&logo=kubernetes" />
-  <img src="https://img.shields.io/badge/-HashiCorp_Vault-black?style=for-the-badge&logo=vault" />
-  <img src="https://img.shields.io/badge/-Axios-darkblue?style=for-the-badge&logo=axios" />
-  <img src="https://img.shields.io/badge/-Stripe-purple?style=for-the-badge&logo=stripe" />
-  <img src="https://img.shields.io/badge/-CORS-lightgrey?style=for-the-badge&logo=cors" />
-
-  <h5>⚙️ DevOps</h5>
-  <img src="https://img.shields.io/badge/-Terraform-5c4ee5?style=for-the-badge&logo=terraform" />
-  <img src="https://img.shields.io/badge/-GitHub_Workflow-black?style=for-the-badge&logo=githubactions" />
-
-  <h5>☁️ Clouds</h5>
-  <img src="https://img.shields.io/badge/-Azure_Cloud_Service-lightblue?style=for-the-badge&logo=microsoftazure" />
-  <img src="https://img.shields.io/badge/-Azure_Kubernetes_Service-blue?style=for-the-badge&logo=azurekubernetesservice" />
-
-</div>
-
-
-
-<br clear="both">
-
-<div align="center">
-    <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Profile Image" />
-  </div>
-
----
-
-### 📮 Reach Out to Me: 
-- **Email**: [tanimahmedshad@gmail.com](mailto:tanimahmedshad@gmail.com)
-
----
- -->
-
-
-
-
+## Projects
+- [Basic-Mordern-SLM](https://github.com/OG-Tanim/Basic-Mordern-SLM)
+- [react-diffing-and-reconciliation](https://github.com/OG-Tanim/react-diffing-and-reconciliation)
+- [Node-js-MongoDB](https://github.com/OG-Tanim/Node-js-MongoDB)
+- [Practice](https://github.com/OG-Tanim/Practice)
+- [RAG-form-First-Principles](https://github.com/OG-Tanim/RAG-form-First-Principles)
+- [PageIndex-RAG](https://github.com/OG-Tanim/PageIndex-RAG)
+- [zerodha-landing-page](https://github.com/OG-Tanim/zerodha-landing-page)
+- [CP](https://github.com/OG-Tanim/CP)
+- [Tenant-Fix-Services-Backend](https://github.com/OG-Tanim/Tenant-Fix-Services-Backend)
+- [Reply-AI-Contest-Fraudulent-Transaction-Detector](https://github.com/OG-Tanim/Reply-AI-Contest-Fraudulent-Transaction-Detector-)
+- [Node.js_crash](https://github.com/OG-Tanim/Node.js_crash)
+- [Sample_RLM](https://github.com/OG-Tanim/Sample_RLM)
+- [job-scraper](https://github.com/OG-Tanim/job-scraper)
+- [Service-Management-App-Backend](https://github.com/OG-Tanim/Service-Management-App-Backend)
+- [Node.js-CloudStorageBackend](https://github.com/OG-Tanim/Node.js-CloudStorageBackend)
+- [Vibecommerce-backend](https://github.com/OG-Tanim/Vibecommerce-backend)
+- [HTML-Practices](https://github.com/OG-Tanim/HTML-Practices)
+- [react-fe-recoil-todo](https://github.com/OG-Tanim/react-fe-recoil-todo)

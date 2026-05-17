@@ -3,6 +3,7 @@
 
 ## Projects
 - [React Diffing and Reconciliation](https://github.com/OG-Tanim/react-diffing-and-reconciliation)
+- [Fine Tuning on VisDrone Dataset to detect humans and cars](https://github.com/OG-Tanim/VisDrone-Human-Car-Detection)
 - [A Mordern Small Language Model](https://github.com/OG-Tanim/Basic-Mordern-SLM)
 - [Sample_Recursive Learning Model](https://github.com/OG-Tanim/Sample_RLM)
 - [RAG form First Principles](https://github.com/OG-Tanim/RAG-form-First-Principles)

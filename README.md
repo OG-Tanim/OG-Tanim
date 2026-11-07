@@ -1,6 +1,7 @@
 ## Currently Building
 
 ## Projects
+- [BIAI-CRM](https://github.com/OG-Tanim/BIAI-CRM)
 - [React Diffing and Reconciliation](https://github.com/OG-Tanim/react-diffing-and-reconciliation)
 - [Fine Tuning on VisDrone Dataset to detect humans and cars](https://github.com/OG-Tanim/VisDrone-Human-Car-Detection)
 - [A Mordern Small Language Model](https://github.com/OG-Tanim/Basic-Mordern-SLM)

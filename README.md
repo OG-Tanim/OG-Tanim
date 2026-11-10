@@ -1,5 +1,7 @@
 ## Currently Building
 
+- [School Admission System](https://github.com/OG-Tanim/school-admission-system)
+
 ## Projects
 - [BIAI-CRM](https://github.com/OG-Tanim/BIAI-CRM)
 - [React Diffing and Reconciliation](https://github.com/OG-Tanim/react-diffing-and-reconciliation)
